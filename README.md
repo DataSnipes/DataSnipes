@@ -1,12 +1,26 @@
-- 👋 Hi, I’m DataSnipes
-- 👀 I’m interested in Minecraft Mods
-- 🌱 I’m currently learning Java (Not Javascript😑)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @Jamesus2.0 On Discord
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi Im Datasnipes
 
-<!---
-DataSnipes/DataSnipes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im currently interested in HTML and Javascript
+
+You Can Contact Me Using The [Discord](https://discord.com/users/jamesus3.0) Link
+And Find Me On Steam [Here](https://steamcommunity.com/id/GrimeyTheBanana/games)
+
+## My Favorite Repos
+
+[Iris Optifine Shaders](https://github.com/IrisShaders/Iris)
+
+[Optifine](https://github.com/sp614x/optifine)
+
+## My Favorite Games To Play
+
+[Rainbow 6 Siege](https://store.steampowered.com/app/359550)
+
+[Delta Force](https://store.steampowered.com/app/2507950/Delta_Force/)
+
+[Splitgate](https://store.steampowered.com/app/677620/Splitgate/)
+
+## My Platforms
+[Playstation](https://profile.playstation.com/GrimeyBanana)
+
+[Steam](https://steamcommunity.com/id/GrimeyTheBanana/games)
+

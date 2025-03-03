@@ -26,5 +26,16 @@ And Find Me On Steam [Here](https://steamcommunity.com/id/GrimeyTheBanana/games)
 
 # Current Project.
 
-ShimBootWindows: The ShimBoot Chromebook Windows Distribution For Dedede Systems
+ShimBootWindows: The ShimBoot Chromebook Windows Distribution For Dedede Systems.
 
+### How It Works
+
+Its Not Really Running A Windows Distribution! Its Linux! Using Wine We Can Get It To Run EXE Files! And Because Linux Is Open Source We Can Disguise The Distro As Windows 11!
+
+Version: 1.0.0 Debian mask (arm64)
+
+User: GrimeyBanana
+
+Password: Cat123
+
+DO NOT TRY TO DO THIS WITH OTHER DISTROS, IT WILL KILL THE CHROMEBOOK.

@@ -34,8 +34,18 @@ Its Not Really Running A Windows Distribution! Its Linux! Using Wine We Can Get 
 
 Version: 1.0.0 Debian mask (arm64)
 
-User: GrimeyBanana
+# Secondary Project
 
-Password: Cat123
+Crash Point | Warzone 
 
-DO NOT TRY TO DO THIS WITH OTHER DISTROS, IT WILL KILL THE CHROMEBOOK.
+Video Game Built In The Unreal Engine.
+
+# Features
+
+Optional Campaign 
+
+Multiplayer Online. (Subscription Not Required)
+
+Local Co-op 
+
+### Find More [Here]()
